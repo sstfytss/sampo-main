@@ -5,7 +5,7 @@ target 'sampo' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for sampo
+  # Pods for sampo  
   pod 'HDAugmentedReality', '~> 3.0'
   pod 'ARCL'
   pod 'Firebase/Analytics'
@@ -15,6 +15,13 @@ target 'sampo' do
   pod 'GoogleSignIn'
   pod 'Cosmos'
 
+
+#  post_install do |installer|
+ # installer.pods_project.build_configurations.each do |config|
+  #  config.build_settings["EXCLUDED_ARCHS[sdk=iphonesimulator*]"] = "arm64"
+  #end
+#end
+
   target 'sampoTests' do
     inherit! :search_paths
     # Pods for testing
@@ -23,5 +30,7 @@ target 'sampo' do
   target 'sampoUITests' do
     # Pods for testing
   end
+
+
 
 end

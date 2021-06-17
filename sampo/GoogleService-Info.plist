@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>791593034715-01uuh2p0fqg2i56equincns6hkqb2i0s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.791593034715-01uuh2p0fqg2i56equincns6hkqb2i0s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYu84PjycbtDJEDD8mGIAx9zhIYzSVbvU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>791593034715</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.sakai.shun.sampo</string>
+	<key>PROJECT_ID</key>
+	<string>sampo-e1aee</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sampo-e1aee.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:791593034715:ios:55fa5bb4005cfd4a03fdfe</string>
+</dict>
+</plist>
